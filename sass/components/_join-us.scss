@@ -1,0 +1,27 @@
+.join-us-text {
+  display: block;
+  font-size: 14px;
+  line-height: 1.14;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: $white;
+  margin-bottom: 20px;
+}
+
+.join-us .social-icons-svg {
+  fill: $white;
+}
+
+.join-us .social-icons-list {
+  display: flex;
+  justify-content: start;
+}
+
+.join-us .social-icons-link {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.join-us .social-icons-link:hover,
+.join-us .social-icons-link:focus {
+  background-color: $accent-colour;
+}

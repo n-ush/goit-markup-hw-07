@@ -1,0 +1,19 @@
+.address a {
+    color: rgba(255, 255, 255, 0.6);
+   }
+  
+   .address .contact-item {  
+    color: #FFFFFF;
+   }
+  
+   .address {
+     margin-top: 20px;
+   }
+  
+   .address li:not(:last-child) {
+    margin-bottom: 9px;
+  }
+  
+   .footer-address {
+     margin-right: 70px;
+   }
